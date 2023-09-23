@@ -65,6 +65,12 @@ flutter:
     - assets/images/not.png
     - assets/images/playlistpessoal.png
     - assets/images/bannerui.png 
+    - assets/images/image7.png 
+    - assets/images/image8.png 
+    - assets/images/image9.png
+    - assets/images/pride.png 
+    - assets/images/blond.png 
+    - assets/images/xd.png 
   # To add assets to your application, add an assets section, like this:
   # assets:
   #   - images/a_dot_burr.jpeg
